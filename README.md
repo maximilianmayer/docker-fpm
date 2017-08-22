@@ -1,2 +1,2 @@
 # docker-fpm
-repository for fpm docker image
+docker image for fpm package manager (https://github.com/jordansissel/fpm)
